@@ -1,4 +1,4 @@
-### 8th - 9th April 2025, University of Galway, Ireland
+### 6th & 20th June 2025, Francis Crick Institute
 
 <img width="100%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.png" alt="Banner Image">
 
@@ -10,11 +10,8 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 # Instructors
 * [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
-* [Martin Jones, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/martin-jones)
-* [Stefania Marcotti, King's College London](https://www.kcl.ac.uk/people/stefania-marcotti)
+* [Alicja Skórkowska, Francis Crick Institute](https://intranet.crick.ac.uk/people/alicja-skorkowska)
 * [Sara Salgueiro Torres, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/sara-salgueiro-torres)
-* [Pascal Paco Farina, University of Galway](https://www.linkedin.com/in/pascal-paco-farina-000502210/)
-* [Karolina Salciute, University of Galway](https://www.linkedin.com/in/karolina-salciute/)
 
 # Preparation
 
@@ -26,20 +23,14 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 # Slides
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15212231.svg)](https://doi.org/10.5281/zenodo.15212231)
-
-All of the presentation material for this workshop is available on Zenodo and can be referenced as follows:
-
->Barry, D. J., Jones, M., Marcotti, S., and Salgueiro Torres, S. (2025). Introduction to Image Analysis. _Zenodo_. doi: https://doi.org/10.5281/zenodo.15212231
+All of the presentation material for this workshop is available [here](https://drive.google.com/drive/folders/1nTeM1MHu74hpmGDSvYeqU-ftX8ANHqI_?usp=sharing).
 
 # Program
-
-**Please note that all catering, as well as attendance of the social on the evening of the 8th, is covered by your registration fee.**
 
 <table style="width:100%">
 	<tbody>
 		<tr>
-			<th colspan=3>Tuesday, April 8th 2025</th>
+			<th colspan=3>Friday, June 6th 2025</th>
 		</tr>
 		<tr>
 			<td>09:30 - 10:30</td>
@@ -129,12 +120,7 @@ All of the presentation material for this workshop is available on Zenodo and ca
 			</td>
 		</tr>
 		<tr>
-			<td>18:10 - ?</td>
-			<td>Evening Social</td>
-			<td>Taylor's Bar, 7 Dominick St Upper, Galway, H91 RP48</td>
-		</tr>
-		<tr>
-			<th colspan=3>Wednesday, April 9th 2025</th>
+			<th colspan=3>Friday, June 20th 2025</th>
 		</tr>
 		<tr>
 			<td>09:30 - 10:30</td>
