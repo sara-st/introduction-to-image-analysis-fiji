@@ -197,6 +197,7 @@ On the evening of Tuesday the 8th, we will walk (about 15 minutes) to Taylor's B
 | 8 / 9th April 2024 | King's College London | [Click here](Pages/KCL_2024.04.08.md)|
 | 24 / 25th April 2024 | Royal College of Surgeons in Ireland | [Click here](Pages/RCSI_2024.04.24.md)|
 | 21 / 22nd October 2024 | Francis Crick Institute | [Click here](Pages/Crick_2024.10.21.md)|
+| 8 / 9th April 2025 | University of Galway, Ireland | [Click here](Pages/Galway_2025-04-08.md)|
 
 # FAQ
 
