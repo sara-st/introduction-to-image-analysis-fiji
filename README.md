@@ -6,7 +6,7 @@
 
 In this workshop, we will bridge the gap between advanced microscopy data generation and the computational skills required for its analysis. By leveraging open-source tools like [FIJI](https://fiji.sc) and [napari](https://napari.org), participants will learn to automate image analysis, enhancing the precision, efficiency, and reproducibility of their research. This two-day event, led by experienced core facility staff from the Francis Crick Institute and King's College London, offers a practical approach to mastering quantitative analysis and workflow automation, essential for advancing research across multiple domains.
 
->Applications for this workshop have now closed.
+>Applications for this workshop will open shortly.
 
 # Instructors
 * [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
@@ -33,32 +33,9 @@ All of the presentation material for this workshop is available [here](https://d
 			<th colspan=3>Friday, June 6th 2025</th>
 		</tr>
 		<tr>
-			<td>09:30 - 10:30</td>
-			<td colspan=3> Registration</td>
-		</tr>
-		<tr>
-			<td>10:30 - 11:45</td>
+			<td>12:00 - 14:00</td>
 			<td>Session 1</td>
-			<td><p>Introduction - Automated Image Analysis is Essential for Reproducible Science</p><p>Dave Barry</p></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td colspan=3>
-				<ul>
-					<li>Why manual analysis is a bad idea</li>
-					<li>Embracing uncertainty</li>
-					<li>What is metadata and why do you need it</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td>11:45 - 12:00</td>
-			<td colspan=2>Coffee Break</td>
-		</tr>
-		<tr>
-			<td>12:00 - 13:30</td>
-			<td>Session 2</td>
-			<td><p>Image Pre-Processing, Segmentation & Analysis</p><p>Sara Salgueiro Torres</p></td>
+			<td><p>Image Pre-Processing, Segmentation & Analysis</p><p>Dave Barry</p></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -74,17 +51,12 @@ All of the presentation material for this workshop is available [here](https://d
 			</td>
 		</tr>
 		<tr>
-			<td>13:30 - 13:40</td>
-			<td>Tech Bite</td>
-			<td><p> How to enhance your experimental workflows through Smart Experiments and JOBs </p><p> Dylan Donnellan, Lennox </p></td>
+			<td>14:00 - 14:20</td>
+			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>13:40 - 14:40</td>
-			<td colspan=2>Lunch</td>
-		</tr>
-		<tr>
-			<td>14:40 - 16:25</td> 
-			<td>Session 3</td>
+			<td>14:20 - 16:30</td> 
+			<td>Session 2</td>
 			<td><p>Assembling Pipelines and Interpreting Results</p><p>Dave Barry</p></td>
 		</tr>
 		<tr>
@@ -100,32 +72,12 @@ All of the presentation material for this workshop is available [here](https://d
 			</td>
 		</tr>
 		<tr>
-			<td>16:25 - 16:40</td>
-			<td colspan=2>Coffee Break</td>
-		</tr>
-		<tr>
-			<td>16:40 - 18:10</td> 
-			<td>Session 4</td>
-			<td><p>Introduction to Batch Processing</p><p>Dave Barry</p></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td colspan=3>
-				<ul>
-                    <li>Practical Application: </li>
-					<ul>
-						<li>Record commands to form the basis of a script</li>
-					</ul>
-                </ul>
-			</td>
-		</tr>
-		<tr>
 			<th colspan=3>Friday, June 20th 2025</th>
 		</tr>
 		<tr>
-			<td>09:30 - 10:30</td>
-			<td>Session 5</td>
-			<td><p>Introduction to Python and installations</p><p>Stefania Marcotti</p></td>
+			<td>12:00 - 13:00</td>
+			<td>Session 3</td>
+			<td><p>Introduction to Python and installations</p><p>Alicja Skórkowska</p></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -137,13 +89,13 @@ All of the presentation material for this workshop is available [here](https://d
 			</td>
 		</tr>
 		<tr>
-			<td>10:30 - 10:45</td>
+			<td>13:00 - 13:20</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>10:45 - 12:30</td>
-			<td>Session 6</td>
-			<td><p>Using Jupyter Notebooks for Reproducible Analysis</p><p>Stefania Marcotti</p></td>
+			<td>13:20 - 15:30</td>
+			<td>Session 4</td>
+			<td><p>Using Jupyter Notebooks for Reproducible Analysis</p><p>Alicja Skórkowska</p></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -151,25 +103,6 @@ All of the presentation material for this workshop is available [here](https://d
 				<ul>
 					<li>Variables and arrays</li>
 					<li>Practical Application: quantify morphology of objects in a 2D image with Jupyter</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td>12:30 - 13:30</td>
-			<td colspan=2>Lunch</td>
-		</tr>
-		<tr>
-			<td>13:30 - 15:30</td>
-			<td>Session 7</td>
-			<td><p>Using napari as an image analysis tool and as a viewer</p><p>Martin Jones</p></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td colspan=3>
-				<ul>
-					<li>Overview of napari GUI</li>
-					<li>Practical Application: batch processing with Jupyter</li>
-					<li>Practical Application: using napari as a viewer from Jupyter</li>
 				</ul>
 			</td>
 		</tr>
