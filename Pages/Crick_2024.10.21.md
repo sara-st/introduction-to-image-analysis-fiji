@@ -26,7 +26,11 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 # Slides
 
-All the slides for the workshop are on Google and accesible [here](https://drive.google.com/drive/folders/1nTeM1MHu74hpmGDSvYeqU-ftX8ANHqI_?usp=sharing).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13987719.svg)](https://doi.org/10.5281/zenodo.13987719)
+
+All of the presentation material for this workshop is available on Zenodo and can be referenced as follows:
+
+Barry, D. J., Jones, M., & Marcotti, S. (2024). Introduction to Image Analysis. _Zenodo_. doi: https://doi.org/10.5281/zenodo.13987719
 
 # Program
 
