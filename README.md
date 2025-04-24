@@ -33,7 +33,7 @@ All of the presentation material for this workshop is available [here](https://d
 			<th colspan=3>Friday, June 6th 2025</th>
 		</tr>
 		<tr>
-			<td>12:00 - 14:00</td>
+			<td>12:00 - 14:30</td>
 			<td>Session 1</td>
 			<td><p>Image Pre-Processing, Segmentation & Analysis</p><p>Dave Barry</p></td>
 		</tr>
@@ -51,11 +51,11 @@ All of the presentation material for this workshop is available [here](https://d
 			</td>
 		</tr>
 		<tr>
-			<td>14:00 - 14:20</td>
+			<td>14:30 - 14:50</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>14:20 - 16:30</td> 
+			<td>14:50 - 17:00</td> 
 			<td>Session 2</td>
 			<td><p>Assembling Pipelines and Interpreting Results</p><p>Dave Barry</p></td>
 		</tr>
@@ -89,11 +89,11 @@ All of the presentation material for this workshop is available [here](https://d
 			</td>
 		</tr>
 		<tr>
-			<td>13:00 - 13:20</td>
+			<td>13:30 - 13:50</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>13:20 - 15:30</td>
+			<td>13:50 - 16:00</td>
 			<td>Session 4</td>
 			<td><p>Using Jupyter Notebooks for Reproducible Analysis</p><p>Alicja Skórkowska</p></td>
 		</tr>
