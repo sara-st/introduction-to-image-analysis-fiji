@@ -113,6 +113,8 @@ All of the presentation material for this workshop is available [here](https://d
 
 The workshop will take place in Training Room 1 at the Francis Crick Institute.
 
+![image](https://github.com/user-attachments/assets/e49e73b8-a892-4d8b-83c2-671e5bb1626d)
+
 # Previous Workshops
 
 | Date | Venue | Content |
