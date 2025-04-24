@@ -75,7 +75,7 @@ All of the presentation material for this workshop is available [here](https://d
 			<th colspan=3>Friday, June 20th 2025</th>
 		</tr>
 		<tr>
-			<td>12:00 - 13:00</td>
+			<td>12:00 - 13:30</td>
 			<td>Session 3</td>
 			<td><p>Introduction to Python and installations</p><p>Alicja Skórkowska</p></td>
 		</tr>
