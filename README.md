@@ -106,6 +106,11 @@ All of the presentation material for this workshop is available [here](https://d
 				</ul>
 			</td>
 		</tr>
+		<tr>
+			<td>16:00 - 17:00</td>
+			<td>Session 5</td>
+			<td>Q&A and Discussion</td>
+		</tr>
 	</tbody>
 </table>
 
