@@ -2,7 +2,7 @@
 
 Please read the following instructions carefully to prepare for the workshop. Completing these steps prior to the workshop is essential to ensure we stay on schedule. If you are having any trouble with the below instructions, please reach out for help:
 * For issues with FIJI, contact Dave (David.Barry@crick.ac.uk)
-* For conda issues, contact Stefania (stefania.marcotti@kcl.ac.uk)
+* For conda issues, contact Alicja (alicja.skorkowska@crick.ac.uk)
 
 ## Download Demo Data
 
@@ -39,7 +39,7 @@ Download the workshop data by clicking on the link to the ZIP archive at the top
    
 3. Please check that the installation worked properly by opening the Terminal (MacOS) or Anaconda PowerShell Prompt (Windows) and typing `conda list`. If conda has been installed correctly, a list of installed packages appears.
 
-FAQ: "What should I do if I already have `conda` installed on my machine?"
+### What should I do if I already have `conda` installed on my machine?
 
 Please make sure that your `conda` installation is up to date. To do so, run the following command:
 ```
