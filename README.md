@@ -25,7 +25,7 @@ You can register your interest in attending the workshop [here](https://forms.of
 
 # Slides
 
-All of the presentation material for this workshop is available [here](https://drive.google.com/drive/folders/1nTeM1MHu74hpmGDSvYeqU-ftX8ANHqI_?usp=sharing).
+All of the slides for this workshop are available [here](https://drive.google.com/drive/folders/1X-btL4QNZGQAiypkvv-GTQfSUFG9yYvE?usp=drive_link).
 
 # Program
 
