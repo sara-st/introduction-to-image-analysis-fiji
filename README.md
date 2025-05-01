@@ -10,6 +10,8 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 You can register your interest in attending the workshop [here](https://forms.office.com/e/cBSxSej9GT). Please be advised that places are limited and a selection process will be used in the event that the workshop is over-subscribed.
 
+**The deadline for registering your interest is May 9th.**
+
 # Instructors
 * [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
 * [Alicja Skórkowska, Francis Crick Institute](https://intranet.crick.ac.uk/people/alicja-skorkowska)
