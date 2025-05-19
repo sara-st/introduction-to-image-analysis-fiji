@@ -35,7 +35,7 @@ All of the slides for this workshop are available [here](https://drive.google.co
 			<th colspan=3>Friday, June 6th 2025</th>
 		</tr>
 		<tr>
-			<td>12:00 - 14:30</td>
+			<td>12:00 - 14:20</td>
 			<td>Session 1</td>
 			<td><p>Image Pre-Processing, Segmentation & Analysis</p><p>Dave Barry</p></td>
 		</tr>
@@ -53,7 +53,7 @@ All of the slides for this workshop are available [here](https://drive.google.co
 			</td>
 		</tr>
 		<tr>
-			<td>14:30 - 14:50</td>
+			<td>14:20 - 14:50</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
