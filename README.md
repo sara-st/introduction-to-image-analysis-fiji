@@ -78,7 +78,7 @@ All of the slides for this workshop are available [here](https://drive.google.co
 			<th colspan=3>Friday, June 20th 2025</th>
 		</tr>
 		<tr>
-			<td>12:00 - 13:30</td>
+			<td>12:30 - 14:00</td>
 			<td>Session 3</td>
 			<td><p>Introduction to Python and installations</p><p>Alicja Skórkowska</p></td>
 		</tr>
@@ -92,11 +92,11 @@ All of the slides for this workshop are available [here](https://drive.google.co
 			</td>
 		</tr>
 		<tr>
-			<td>13:30 - 13:50</td>
+			<td>14:00 - 14:20</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>13:50 - 16:00</td>
+			<td>14:20 - 16:30</td>
 			<td>Session 4</td>
 			<td><p>Using Jupyter Notebooks for Reproducible Analysis</p><p>Alicja Skórkowska</p></td>
 		</tr>
@@ -110,7 +110,7 @@ All of the slides for this workshop are available [here](https://drive.google.co
 			</td>
 		</tr>
 		<tr>
-			<td>16:00 - 17:00</td>
+			<td>16:30 - 17:30</td>
 			<td>Session 5</td>
 			<td>Q&A and Discussion</td>
 		</tr>
