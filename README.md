@@ -87,7 +87,7 @@ All of the slides for this workshop are available [here](https://drive.google.co
 			<td colspan=3>
 				<ul>
 					<li>Creating Python environments</li>
-					<li>Installing Jupyter notebooks and napari</li>
+					<li>Installing Jupyter notebooks</li>
 				</ul>
 			</td>
 		</tr>
