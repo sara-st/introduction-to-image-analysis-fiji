@@ -27,7 +27,11 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 # Slides
 
-All of the slides for this workshop are available [here](https://drive.google.com/drive/folders/1X-btL4QNZGQAiypkvv-GTQfSUFG9yYvE?usp=drive_link).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15744727.svg)](https://doi.org/10.5281/zenodo.15744727)
+
+All of the presentation material for this workshop is available on Zenodo and can be referenced as follows:
+
+>Barry, D. J., Jones, M., Marcotti, S., Salgueiro Torres, S., & Skórkowska, A. (2025). Introduction to Image Analysis. _Zenodo_. doi: https://doi.org/10.5281/zenodo.15744727
 
 # Program
 
@@ -128,10 +132,10 @@ The workshop will take place in Training Room 1 at the Francis Crick Institute.
 
 | Date | Venue | Content |
 | --- | --- | --- |
-| 8 / 9th April 2024 | King's College London | [Click here](Pages/KCL_2024.04.08.md)|
-| 24 / 25th April 2024 | Royal College of Surgeons in Ireland | [Click here](Pages/RCSI_2024.04.24.md)|
-| 21 / 22nd October 2024 | Francis Crick Institute | [Click here](Pages/Crick_2024.10.21.md)|
-| 8 / 9th April 2025 | University of Galway, Ireland | [Click here](Pages/Galway_2025-04-08.md)|
+| 8 / 9th April 2024 | King's College London | [Click here](KCL_2024.04.08.md)|
+| 24 / 25th April 2024 | Royal College of Surgeons in Ireland | [Click here](RCSI_2024.04.24.md)|
+| 21 / 22nd October 2024 | Francis Crick Institute | [Click here](Crick_2024.10.21.md)|
+| 8 / 9th April 2025 | University of Galway, Ireland | [Click here](Galway_2025-04-08.md)|
 
 # FAQ
 
