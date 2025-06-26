@@ -1,6 +1,6 @@
 ### 6th & 20th June 2025, Francis Crick Institute
 
-<img width="100%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.png" alt="Banner Image">
+<img width="100%" src="../Resources/RMS-DAIM_Workshop_Banner_Image.png" alt="Banner Image">
 
 # Overview
 
@@ -144,5 +144,5 @@ The workshop will take place in Training Room 1 at the Francis Crick Institute.
     While some basic knowledge would be helpful, it's not essential and even if you have no knowledge of python, Jupyter notebooks or FIJI scripts/macros, you should still apply.
 
 <p align="center">
-	<img width="32%" src="./Resources/RMS_Logo.jpg" alt="RMS Logo"> <img width="10%" src="./Resources/CRICK_Logo.png" alt="Crick Logo">
+	<img width="32%" src="../Resources/RMS_Logo.jpg" alt="RMS Logo"> <img width="10%" src="../Resources/CRICK_Logo.png" alt="Crick Logo">
 </p>
