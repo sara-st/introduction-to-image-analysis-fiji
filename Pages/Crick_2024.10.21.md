@@ -202,8 +202,8 @@ Please note that the building entrance is on Midland Road.
 
 | Date | Venue | Content |
 | --- | --- | --- |
-| 8 / 9th April 2024 | King's College London | [Click here](Pages/KCL_2024.04.08.md)|
-| 24 / 25th April 2024 | Royal College of Surgeons in Ireland | [Click here](Pages/RCSI_2024.04.24.md)|
+| 8 / 9th April 2024 | King's College London | [Click here](KCL_2024.04.08.md)|
+| 24 / 25th April 2024 | Royal College of Surgeons in Ireland | [Click here](RCSI_2024.04.24.md)|
 
 # FAQ
 
