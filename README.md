@@ -1,4 +1,4 @@
-### 6th & 20th June 2025, Francis Crick Institute
+### 18th & 19th August 2025, Francis Crick Institute
 
 <img width="100%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.png" alt="Banner Image">
 
@@ -8,115 +8,23 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 # Registration
 
-> The application deadline for this workshop has now passed.
+Applications for this workshop are now open! **[Sign up](https://forms.office.com/e/UdZNWrN1bp) before the 18th July 2025**. 
+> **Please be advised that submitting a form does not guarantee you a place in the workshop**. Application outcomes will be communicated by 25th July 2025. 
 
 # Instructors
-* [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
-* [Alicja Skórkowska, Jagiellonian University](https://intranet.crick.ac.uk/people/alicja-skorkowska)
-* [Stefania Marcotti, King's College London](https://www.kcl.ac.uk/people/stefania-marcotti)
 * [Sara Salgueiro Torres, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/sara-salgueiro-torres)
-* [Cameron Shand, Francis Crick Institute](https://intranet.crick.ac.uk/people/cameron-shand)
+* [Stefania Marcotti, King's College London](https://www.kcl.ac.uk/people/stefania-marcotti)
 
-# Preparation
-
-1. Please remember to bring your laptop (and charger).
-2. Please install the required software before the workshop - follow the installation instructions on [this page](Pages/Installation-Instructions.md).
-3. Download the workshop data by clicking on the link to the ZIP archive at the top of this page.
-4. You will be assigned to a specific group, with whom you will be sitting - your group number will be displayed in the training room.
-5. **PLEASE CONTACT US BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH ANY OF THE ABOVE.**
-
-# Slides
-
-All of the slides for this workshop are available [here](https://drive.google.com/drive/folders/1X-btL4QNZGQAiypkvv-GTQfSUFG9yYvE?usp=drive_link).
 
 # Program
+Details soon to follow!
 
-<table style="width:100%">
-	<tbody>
-		<tr>
-			<th colspan=3>Friday, June 6th 2025</th>
-		</tr>
-		<tr>
-			<td>12:00 - 14:30</td>
-			<td>Session 1</td>
-			<td><p>Image Pre-Processing, Segmentation & Analysis</p><p>Dave Barry</p></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td colspan=3>
-				<ul>
-					<li>Practical Applications:</li>
-					<ul>
-						<li>Basic segmentation using thresholding</li>
-						<li>Use of filtering to suppress noise</li>
-						<li>Obtaining numbers from images</li>
-					</ul>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td>14:30 - 15:00</td>
-			<td colspan=2>Coffee Break</td>
-		</tr>
-		<tr>
-			<td>15:00 - 17:00</td> 
-			<td>Session 2</td>
-			<td><p>Assembling Pipelines and Interpreting Results</p><p>Dave Barry</p></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td colspan=3>
-			<ul>
-				<li>Practical Applications:</li>
-				<ul>
-					<li>Counting and quantifying morphology of objects</li>
-					<li>Quantifying fluorescence intensities</li>
-				</ul>
-			</ul>
-			</td>
-		</tr>
-		<tr>
-			<th colspan=3>Friday, June 20th 2025</th>
-		</tr>
-		<tr>
-			<td>12:30 - 14:00</td>
-			<td>Session 3</td>
-			<td><p>Introduction to Python and installations</p><p>Alicja Skórkowska</p></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td colspan=3>
-				<ul>
-					<li>Creating Python environments</li>
-					<li>Installing Jupyter notebooks</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td>14:00 - 14:20</td>
-			<td colspan=2>Coffee Break</td>
-		</tr>
-		<tr>
-			<td>14:20 - 16:30</td>
-			<td>Session 4</td>
-			<td><p>Using Jupyter Notebooks for Reproducible Analysis</p><p>Alicja Skórkowska</p></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td colspan=3>
-				<ul>
-					<li>Variables and arrays</li>
-					<li>Practical Application: quantify morphology of objects in a 2D image with Jupyter</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td>16:30 - 17:30</td>
-			<td>Session 5</td>
-			<td>Q&A and Discussion</td>
-		</tr>
-	</tbody>
-</table>
+### Monday, 18th August 2025
+10:00 - 17:30 – Introduction to Image Analysis and FIJI
+
+### Tuesday, 19th August 2025
+09:30 - 17:30 – Image Analysis with Python and Jupyter Notebooks
+
 
 # Venue
 
@@ -136,7 +44,7 @@ The workshop will take place in Training Room 1 at the Francis Crick Institute.
 
 # FAQ
 
-1. **Do I need any prior knowledge of image analysis, FIJI or napari to attend?**
+1. **Do I need any prior knowledge of image analysis, FIJI or python to attend?**
 
     No, this workshop is aimed at complete beginners, but a basic understanding of image acquisition would be beneficial.
 
