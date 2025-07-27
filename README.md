@@ -8,12 +8,12 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 # Registration
 
-Applications for this workshop are now open! **[Sign up](https://forms.office.com/e/UdZNWrN1bp) before the 18th July 2025**. 
-> **Please be advised that submitting a form does not guarantee you a place in the workshop**. Application outcomes will be communicated by 25th July 2025. 
+Applications for this workshop are now closed. Keep an eye out for future Image Analysis workshops!
+
 
 # Instructors
 * [Sara Salgueiro Torres, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/sara-salgueiro-torres)
-* [Stefania Marcotti, King's College London](https://www.kcl.ac.uk/people/stefania-marcotti)
+* Stefania Marcotti, Francis Crick Institute
 
 
 # Program
