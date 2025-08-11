@@ -13,17 +13,163 @@ Applications for this workshop are now closed. Keep an eye out for future Image 
 
 # Instructors
 * [Sara Salgueiro Torres, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/sara-salgueiro-torres)
-* Stefania Marcotti, Francis Crick Institute
+* Stefania Marcotti, Francis Crick Institute <br><br>
+
+Who will be kindly assisted by:
+* [Martin Jones, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/martin-jones)
+* [Cameron Shand, Francis Crick Institute](https://intranet.crick.ac.uk/people/cameron-shand)
+* [Alicja Skórkowska, Francis Crick Institute](https://intranet.crick.ac.uk/people/alicja-skorkowska)
 
 
 # Program
-Details soon to follow!
 
-### Monday, 18th August 2025
-10:00 - 17:30 – Introduction to Image Analysis and FIJI
+<table style="width:100%">
+	<tbody>
+		<tr>
+			<th colspan=3>Monday, August 18th 2025</th>
+		</tr>
+		<tr>
+			<td>09:30 - 10:30</td>
+			<td>Session 1</td>
+			<td><p>Introduction - Automated Image Analysis for Reproducible Science</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+					<li>Why manual analysis is a bad idea</li>
+					<li>Embracing uncertainty</li>
+					<li>What is metadata and why do you need it</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>10:30 - 10:45</td>
+			<td colspan=2>Coffee Break</td>
+		</tr>
+		<tr>
+			<td>10:45 - 12:30</td>
+			<td>Session 2</td>
+			<td><p>Image Pre-Processing, Segmentation & Analysis</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+					<li>Practical Applications:</li>
+					<ul>
+						<li>Basic segmentation using thresholding</li>
+						<li>Use of filtering to suppress noise</li>
+						<li>Obtaining numbers from images</li>
+					</ul>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>12:30 - 13:30</td>
+			<td colspan=2>Lunch</td>
+		</tr>
+		<tr>
+			<td>13:30 - 15:30</td> 
+			<td>Session 3</td>
+			<td><p>Assembling Pipelines and Interpreting Results</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+			<ul>
+				<li>Practical Applications:</li>
+				<ul>
+					<li>Counting and quantifying morphology of objects</li>
+					<li>Quantifying fluorescence intensities</li>
+				</ul>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>15:30 - 15:45</td>
+			<td colspan=2>Coffee Break</td>
+		</tr>
+		<tr>
+			<td>15:45 - 17:15</td> 
+			<td>Session 4</td>
+			<td><p>Introduction to Batch Processing</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+                    <li>Practical Application: </li>
+					<ul>
+						<li>Record commands to form the basis of a script</li>
+					</ul>
+                </ul>
+			</td>
+		</tr>
+		<tr>
+			<th colspan=3>Tuesday, August 19th 2025</th>
+		</tr>
+		<tr>
+			<td>09:30 - 10:30</td>
+			<td>Session 5</td>
+			<td><p>Introduction to Python and installations</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+					<li>Creating Python environments</li>
+					<li>Installing Jupyter notebooks</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>10:30 - 10:45</td>
+			<td colspan=2>Coffee Break</td>
+		</tr>
+		<tr>
+			<td>10:45 - 12:30</td>
+			<td>Session 6</td>
+			<td><p>Using Jupyter Notebooks for Reproducible Analysis</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+					<li>Variables and arrays</li>
+					<li>Practical Application: quantify morphology of objects in a 2D image with Jupyter</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>12:30 - 13:30</td>
+			<td colspan=2>Lunch</td>
+		</tr>
+		<tr>
+			<td>13:30 - 15:30</td>
+			<td>Session 7</td>
+			<td><p>Introduction to Batch Processing with Jupyter Notebooks</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+					<li>Practical Application: batch processing with Jupyter</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>15:30 - 15:45</td>
+			<td colspan=2>Coffee Break</td>
+		</tr>
+		<tr>
+			<td>15:45 - 16:45</td>
+			<td>Session 8</td>
+			<td><p>Introduction to napari, wrap-up, and Q&A</p></td>
+		</tr>
+	</tbody>
+</table>
 
-### Tuesday, 19th August 2025
-09:30 - 17:30 – Image Analysis with Python and Jupyter Notebooks
 
 
 # Venue
