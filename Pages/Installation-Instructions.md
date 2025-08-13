@@ -1,8 +1,8 @@
 # Preparation For Introduction to Image Analysis Workshop
 
 Please read the following instructions carefully to prepare for the workshop. Completing these steps prior to the workshop is essential to ensure we stay on schedule. If you are having any trouble with the below instructions, please reach out for help:
-* For issues with FIJI, contact Dave (David.Barry@crick.ac.uk)
-* For conda issues, contact Alicja (alicja.skorkowska@crick.ac.uk)
+* Sara (sara.salgueirotorres@crick.ac.uk)
+
 
 ## Download Demo Data
 
@@ -14,7 +14,7 @@ Download the workshop data by clicking on the link to the ZIP archive at the top
 
    ![FIJI Webpage](./../assets/FIJI.png)
 
-2. To avoid any permissions issues, install FIJI is in your home directory:
+2. To avoid any permissions issues, install FIJI in your home directory:
    * PC: `C:\users\<your user name>`
    * Mac: `/Users/<your user name>`
 
