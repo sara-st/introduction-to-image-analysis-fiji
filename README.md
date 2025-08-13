@@ -21,6 +21,15 @@ Who will be kindly assisted by:
 * [Alicja Skórkowska, Francis Crick Institute](https://intranet.crick.ac.uk/people/alicja-skorkowska)
 
 
+# Preparation
+
+1. Please remember to bring your laptop (and charger).
+2. Please install the required software before the workshop - follow the installation instructions on [this page](Pages/Installation-Instructions.md).
+3. Download the workshop data by clicking on the link to the ZIP archive at the top of this page.
+4. You will be assigned to a specific group, with whom you will be sitting - your group number will be displayed in the training room.
+5. **PLEASE CONTACT SARA BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH ANY OF THE ABOVE.**
+
+
 # Program
 
 <table style="width:100%">
