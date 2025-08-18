@@ -29,6 +29,8 @@ Who will be kindly assisted by:
 4. You will be assigned to a specific group, with whom you will be sitting - your group number will be displayed in the training room.
 5. **PLEASE CONTACT SARA BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH ANY OF THE ABOVE.**
 
+# Slides
+The powerpoint slides used in the workshop are available in [this OneDrive folder](https://thefranciscrickinstitute-my.sharepoint.com/:f:/g/personal/salgues_crick_ac_uk/Ejyix2igHSJKtmvSHi22Sv8BpKj5ayY9KUVC3SwYKn2rwg?e=xm0Kjp).
 
 # Program
 
