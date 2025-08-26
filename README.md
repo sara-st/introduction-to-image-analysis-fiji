@@ -30,7 +30,10 @@ Who will be kindly assisted by:
 5. **PLEASE CONTACT SARA BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH ANY OF THE ABOVE.**
 
 # Slides
-The powerpoint slides used in the workshop are available in [this OneDrive folder](https://thefranciscrickinstitute-my.sharepoint.com/:f:/g/personal/salgues_crick_ac_uk/Ejyix2igHSJKtmvSHi22Sv8BpKj5ayY9KUVC3SwYKn2rwg?e=xm0Kjp).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16949737.svg)](https://doi.org/10.5281/zenodo.16949737)
+
+All of the presentation material for this workshop is available on Zenodo and can be referenced as follows:
+>Barry, D. J., Marcotti, S., Salgueiro Torres, S., Jones, M., & Skórkowska, A. (2025, August 19). Introduction to Image Analysis. _Zenodo_. https://doi.org/10.5281/zenodo.16949737
 
 # Program
 
