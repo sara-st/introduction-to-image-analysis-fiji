@@ -31,7 +31,7 @@ Apply for a place [here](https://www.crick.ac.uk/whats-on/introduction-to-image-
 <table style="width:100%">
 	<tbody>
 		<tr>
-			<th colspan=3>Monday, August 18th 2025</th>
+			<th colspan=3>Monday, October 27th 2025</th>
 		</tr>
 		<tr>
 			<td>09:30 - 10:30</td>
@@ -112,7 +112,7 @@ Apply for a place [here](https://www.crick.ac.uk/whats-on/introduction-to-image-
 			</td>
 		</tr>
 		<tr>
-			<th colspan=3>Tuesday, August 19th 2025</th>
+			<th colspan=3>Tuesday, October 28th 2025</th>
 		</tr>
 		<tr>
 			<td>09:30 - 10:30</td>
