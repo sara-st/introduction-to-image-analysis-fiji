@@ -1,4 +1,4 @@
-### 18th & 19th August 2025, Francis Crick Institute
+### 27th & 28th October 2025, Francis Crick Institute
 
 <img width="100%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.png" alt="Banner Image">
 
@@ -8,18 +8,15 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 # Registration
 
-Applications for this workshop are now closed. Keep an eye out for future Image Analysis workshops!
-
+Apply for a place [here](https://www.crick.ac.uk/whats-on/introduction-to-image-analysis-0).
 
 # Instructors
 * [Sara Salgueiro Torres, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/sara-salgueiro-torres)
 * Stefania Marcotti, Francis Crick Institute <br><br>
-
-Who will be kindly assisted by:
 * [Martin Jones, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/martin-jones)
 * [Cameron Shand, Francis Crick Institute](https://intranet.crick.ac.uk/people/cameron-shand)
 * [Alicja Skórkowska, Francis Crick Institute](https://intranet.crick.ac.uk/people/alicja-skorkowska)
-
+* Kimberly Meechan, UCL
 
 # Preparation
 
@@ -28,12 +25,6 @@ Who will be kindly assisted by:
 3. Download the workshop data by clicking on the link to the ZIP archive at the top of this page.
 4. You will be assigned to a specific group, with whom you will be sitting - your group number will be displayed in the training room.
 5. **PLEASE CONTACT SARA BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH ANY OF THE ABOVE.**
-
-# Slides
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16949737.svg)](https://doi.org/10.5281/zenodo.16949737)
-
-All of the presentation material for this workshop is available on Zenodo and can be referenced as follows:
->Barry, D. J., Marcotti, S., Salgueiro Torres, S., Jones, M., & Skórkowska, A. (2025, August 19). Introduction to Image Analysis. _Zenodo_. https://doi.org/10.5281/zenodo.16949737
 
 # Program
 
@@ -201,6 +192,7 @@ The workshop will take place in Training Room 1 at the Francis Crick Institute.
 | 21 / 22nd October 2024 | Francis Crick Institute | [Click here](Pages/Crick_2024.10.21.md)|
 | 8 / 9th April 2025 | University of Galway, Ireland | [Click here](Pages/Galway_2025-04-08.md)|
 | 6 & 20th June 2025 | Francis Crick Institute | [Click here](Pages/Crick_2025.06.06.md)|
+| 18 / 19th August 2025 | Francis Crick Institute | [Click here](Pages/Crick_2025.08.18.md)|
 
 # FAQ
 
