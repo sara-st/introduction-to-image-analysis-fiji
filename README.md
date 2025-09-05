@@ -12,11 +12,11 @@ Apply for a place [here](https://www.crick.ac.uk/whats-on/introduction-to-image-
 
 # Instructors
 * [Sara Salgueiro Torres, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/sara-salgueiro-torres)
-* Stefania Marcotti, Francis Crick Institute <br><br>
+* [Stefania Marcotti, Francis Crick Institute](https://www.linkedin.com/in/stefania-marcotti/)
 * [Martin Jones, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/martin-jones)
-* [Cameron Shand, Francis Crick Institute](https://intranet.crick.ac.uk/people/cameron-shand)
-* [Alicja Skórkowska, Francis Crick Institute](https://intranet.crick.ac.uk/people/alicja-skorkowska)
-* Kimberly Meechan, UCL
+* [Cameron Shand, Francis Crick Institute](https://www.linkedin.com/in/cameronshand/)
+* [Kimberly Meechan, UCL](https://profiles.ucl.ac.uk/96751-kimberly-meechan)
+* [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
 
 # Preparation
 
