@@ -42,7 +42,7 @@ Apply for a place [here](https://www.crick.ac.uk/whats-on/introduction-to-image-
 			<td></td>
 			<td colspan=3>
 				<ul>
-					<li>Who are you and why are you here?</i>
+					<li>Who are you and why are you here?</li>
 					<li>Creating Python environments</li>
 					<li>Why manual analysis is a bad idea</li>
 					<li>Embracing uncertainty</li>
