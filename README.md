@@ -34,14 +34,16 @@ Apply for a place [here](https://www.crick.ac.uk/whats-on/introduction-to-image-
 			<th colspan=3>Monday, October 27th 2025</th>
 		</tr>
 		<tr>
-			<td>09:30 - 10:30</td>
+			<td>09:30 - 11:00</td>
 			<td>Session 1</td>
-			<td><p>Introduction - Automated Image Analysis for Reproducible Science</p></td>
+			<td><p>Introduction & Installations</p></td>
 		</tr>
 		<tr>
 			<td></td>
 			<td colspan=3>
 				<ul>
+					<li>Who are you and why are you here?</i>
+					<li>Creating Python environments</li>
 					<li>Why manual analysis is a bad idea</li>
 					<li>Embracing uncertainty</li>
 					<li>What is metadata and why do you need it</li>
@@ -49,11 +51,11 @@ Apply for a place [here](https://www.crick.ac.uk/whats-on/introduction-to-image-
 			</td>
 		</tr>
 		<tr>
-			<td>10:30 - 10:45</td>
+			<td>11:00 - 11:15</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>10:45 - 12:30</td>
+			<td>11:15 - 13:00</td>
 			<td>Session 2</td>
 			<td><p>Image Pre-Processing, Segmentation & Analysis</p></td>
 		</tr>
@@ -71,11 +73,11 @@ Apply for a place [here](https://www.crick.ac.uk/whats-on/introduction-to-image-
 			</td>
 		</tr>
 		<tr>
-			<td>12:30 - 13:30</td>
+			<td>13:00 - 14:00</td>
 			<td colspan=2>Lunch</td>
 		</tr>
 		<tr>
-			<td>13:30 - 15:30</td> 
+			<td>14:00 - 16:00</td> 
 			<td>Session 3</td>
 			<td><p>Assembling Pipelines and Interpreting Results</p></td>
 		</tr>
@@ -92,24 +94,17 @@ Apply for a place [here](https://www.crick.ac.uk/whats-on/introduction-to-image-
 			</td>
 		</tr>
 		<tr>
-			<td>15:30 - 15:45</td>
+			<td>16:00 - 16:15</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>15:45 - 17:15</td> 
+			<td>16:15 - 17:45</td> 
 			<td>Session 4</td>
-			<td><p>Introduction to Batch Processing</p></td>
+			<td><p>Exploring other functionality in FIJI</p></td>
 		</tr>
 		<tr>
-			<td></td>
-			<td colspan=3>
-				<ul>
-                    <li>Practical Application: </li>
-					<ul>
-						<li>Record commands to form the basis of a script</li>
-					</ul>
-                </ul>
-			</td>
+			<td>17:45</td>
+			<td colspan=2>Dinner & Drinks</td>
 		</tr>
 		<tr>
 			<th colspan=3>Tuesday, October 28th 2025</th>
@@ -117,14 +112,13 @@ Apply for a place [here](https://www.crick.ac.uk/whats-on/introduction-to-image-
 		<tr>
 			<td>09:30 - 10:30</td>
 			<td>Session 5</td>
-			<td><p>Introduction to Python and installations</p></td>
+			<td><p>Using Jupyter Notebooks for Reproducible Analysis - Part 1</p></td>
 		</tr>
 		<tr>
 			<td></td>
 			<td colspan=3>
 				<ul>
-					<li>Creating Python environments</li>
-					<li>Installing Jupyter notebooks</li>
+					<li>Variables and arrays</li>
 				</ul>
 			</td>
 		</tr>
@@ -135,13 +129,12 @@ Apply for a place [here](https://www.crick.ac.uk/whats-on/introduction-to-image-
 		<tr>
 			<td>10:45 - 12:30</td>
 			<td>Session 6</td>
-			<td><p>Using Jupyter Notebooks for Reproducible Analysis</p></td>
+			<td><p>Using Jupyter Notebooks for Reproducible Analysis - Part 2</p></td>
 		</tr>
 		<tr>
 			<td></td>
 			<td colspan=3>
 				<ul>
-					<li>Variables and arrays</li>
 					<li>Practical Application: quantify morphology of objects in a 2D image with Jupyter</li>
 				</ul>
 			</td>
