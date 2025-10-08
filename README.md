@@ -8,7 +8,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 # Registration
 
-Apply for a place [here](https://www.crick.ac.uk/whats-on/introduction-to-image-analysis-0).
+>Registration for this workshop has now closed.
 
 # Instructors
 * [Sara Salgueiro Torres, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/sara-salgueiro-torres)
