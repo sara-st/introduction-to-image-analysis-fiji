@@ -100,7 +100,19 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		<tr>
 			<td>16:15 - 17:45</td> 
 			<td>Session 4</td>
-			<td><p>Exploring other functionality in FIJI</p></td>
+			<td><p>Extending Analyses to Three Dimensions</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+			<ul>
+				<li>Practical Applications:</li>
+				<ul>
+					<li>Counting and quantifying morphology of three-dimensional objects</li>
+					<li>Quantifying fluorescence intensities of three-dimensional objects</li>
+				</ul>
+			</ul>
+			</td>
 		</tr>
 		<tr>
 			<td>17:45</td>
