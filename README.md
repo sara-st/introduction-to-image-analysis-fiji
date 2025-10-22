@@ -43,11 +43,24 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 				<ul>
-					<li>Who are you and why are you here?</li>
-					<li>Creating Python environments</li>
+					<li>Who are you and why are you here?
+						<ul>
+							<li>Dave Barry</li>
+						</ul>
+					</li>
+					<li>Creating Python environments
+						<ul>
+							<li>Stefania Marcotti</li>
+						</ul>
+					</li>
+					</li>
 					<li>Why manual analysis is a bad idea</li>
 					<li>Embracing uncertainty</li>
 					<li>What is metadata and why do you need it</li>
+						<ul>
+							<li>Sara Salgueiro Torres</li>
+						</ul>
+					</li>
 				</ul>
 			</td>
 		</tr>
