@@ -72,7 +72,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 				<ul>
-					<li>Practical Applications:</li>
+					<li>Sara Salgueiro Torres</li>
 					<ul>
 						<li>Basic segmentation using thresholding</li>
 						<li>Use of filtering to suppress noise</li>
@@ -94,7 +94,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 			<ul>
-				<li>Practical Applications:</li>
+				<li>Sara Salgueiro Torres & Dave Barry</li>
 				<ul>
 					<li>Counting and quantifying morphology of objects</li>
 					<li>Quantifying fluorescence intensities</li>
@@ -115,7 +115,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 			<ul>
-				<li>Practical Applications:</li>
+				<li>Dave Barry</li>
 				<ul>
 					<li>Counting and quantifying morphology of three-dimensional objects</li>
 					<li>Quantifying fluorescence intensities of three-dimensional objects</li>
@@ -139,7 +139,10 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 				<ul>
+				<li>Stefania Marcotti</li>
+				<ul>
 					<li>Variables and arrays</li>
+				</ul>
 				</ul>
 			</td>
 		</tr>
@@ -156,7 +159,10 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 				<ul>
-					<li>Practical Application: quantify morphology of objects in a 2D image with Jupyter</li>
+				<li>Stefania Marcotti</li>
+				<ul>
+					<li>Quantify morphology of objects in a 2D image with Jupyter</li>
+				</ul>
 				</ul>
 			</td>
 		</tr>
@@ -173,7 +179,10 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 				<ul>
+				<li>Stefania Marcotti</li>
+				<ul>
 					<li>Practical Application: batch processing with Jupyter</li>
+				</ul>
 				</ul>
 			</td>
 		</tr>
@@ -185,6 +194,14 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td>15:45 - 16:45</td>
 			<td>Session 8</td>
 			<td><p>Introduction to napari, wrap-up, and Q&A</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+				<li>Martin Jones</li>
+				</ul>
+			</td>
 		</tr>
 	</tbody>
 </table>
