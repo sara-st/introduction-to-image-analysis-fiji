@@ -43,9 +43,9 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 				<ul>
-					<li>Who are you and why are you here?
+					<li>Who are you and why are you here?</li>
 					<ul><li>Dave Barry</li></ul>
-					<li>Creating Python environments
+					<li>Creating Python environments</li>
 					<ul><li>Stefania Marcotti</li></ul>
 					<li>Automated Image Analysis is Essential for Reproducible Science</li>
 					<ul>
