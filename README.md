@@ -43,18 +43,15 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 				<ul>
-					<li>Who are you and why are you here?</li>
-					<ul><li>Dave Barry</li></ul>
-					<li>Creating Python environments</li>
-					<ul><li>Stefania Marcotti</li></ul>
-					<li>Automated Image Analysis is Essential for Reproducible Science</li>
+					<li>Dave Barry</li>
+					<ul><li>Who are you and why are you here?</li></ul>
+					<li>Stefania Marcotti</li>
+					<ul><li>Creating Python environments</li></ul>
+					<li>Sara Salgueiro Torres</li>
 					<ul>
-						<li>Sara Salgueiro Torres</li>
-						<ul>
-							<li>Why manual analysis is a bad idea</li>
-							<li>Embracing uncertainty</li>
-							<li>What is metadata and why do you need it</li>
-						</ul>
+						<li>Why manual analysis is a bad idea</li>
+						<li>Embracing uncertainty</li>
+						<li>What is metadata and why do you need it</li>
 					</ul>
 				</ul>
 			</td>
