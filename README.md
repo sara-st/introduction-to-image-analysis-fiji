@@ -208,7 +208,11 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 # Venue
 
-The workshop will take place in Training Room 1 at the Francis Crick Institute.
+The workshop will take place in the Francis Crick Institute, London, UK:
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d737.902638676005!2d-0.1278312633519172!3d51.53158304203475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2356c7b3d9%3A0xb8647f199e3caae7!2sFrancis%20Crick%20Institute!5e0!3m2!1sen!2suk!4v1726748251051!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+Please note that the building entrance is on Midland Road. The workshop will take place in Training Room 1 on the first floor:
 
 ![image](https://github.com/user-attachments/assets/e49e73b8-a892-4d8b-83c2-671e5bb1626d)
 
