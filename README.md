@@ -211,7 +211,7 @@ The workshop will take place in the Francis Crick Institute, London, UK:
 
 Please note that the building entrance is on Midland Road. The workshop will take place in Training Room 1 on the first floor:
 
-![image](https://github.com/user-attachments/assets/e49e73b8-a892-4d8b-83c2-671e5bb1626d)
+<img width="100%" src="./Resources/Crick-1st-floor.png" alt="Crick 1st Floor Map">
 
 # Previous Workshops
 
