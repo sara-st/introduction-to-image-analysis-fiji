@@ -196,7 +196,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 				<ul>
-				<li>Martin Jones</li>
+				<li>Martin Jones & Cameron Shand</li>
 				</ul>
 			</td>
 		</tr>
