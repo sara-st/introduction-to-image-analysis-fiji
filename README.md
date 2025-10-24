@@ -122,7 +122,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		</tr>
 		<tr>
 			<td>17:45</td>
-			<td colspan=2>Dinner & Drinks</td>
+			<td colspan=2>Dinner</td>
 		</tr>
 		<tr>
 			<th colspan=3>Tuesday, October 28th 2025</th>
