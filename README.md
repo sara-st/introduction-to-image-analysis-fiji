@@ -126,7 +126,7 @@ All the presentation slides for the workshop are accessible [here](https://drive
 		</tr>
 		<tr>
 			<td>17:45</td>
-			<td colspan=2>Dinner</td>
+			<td colspan=2>Dinner: The Parcel Yard, King's Cross Station, London N1C 4AH</td>
 		</tr>
 		<tr>
 			<th colspan=3>Tuesday, October 28th 2025</th>
