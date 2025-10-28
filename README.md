@@ -236,6 +236,10 @@ Please note that the building entrance is on Midland Road.
 
     While some basic knowledge would be helpful, it's not essential and even if you have no knowledge of python, Jupyter notebooks or FIJI scripts/macros, you should still apply.
 
+# Additional Resources
+
+See [here](Pages/Additional-Resources.md) for supplemental workshop material.
+
 <p align="center">
 	<img width="32%" src="./Resources/RMS_Logo.jpg" alt="RMS Logo"> <img width="10%" src="./Resources/CRICK_Logo.png" alt="Crick Logo">
 </p>
