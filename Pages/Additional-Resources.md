@@ -1,7 +1,5 @@
 # Additional Resources
 
-If you would like us to add anything to this page, click [here](https://www.menti.com/alv6o2te7d5o).
-
 ## Recommended Guidelines for Publishing Image Analysis Workflows
 
 We recommend the following publication for guidelines on how to publish your image analysis workflows:
