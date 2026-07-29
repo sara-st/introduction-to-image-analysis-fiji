@@ -102,7 +102,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<ul>
 				<li>Sara Salgueiro Torres</li>
 				<ul>
-					<li>Exercise: automate your workflow with a FIJI macro</li>
+					<li>Automate your workflow with a FIJI macro</li>
 					<li>Q&A</li>
 					<li>Wrap-up</li>
 				</ul>
