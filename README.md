@@ -20,6 +20,8 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 3. Download the workshop data by clicking on the link to the ZIP archive at the top of this page.
 **PLEASE CONTACT SARA BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH ANY OF THE ABOVE.**
 
+# Slides
+You can find the slides for the workshop in the OneDrive folder [here](https://drive.google.com/drive/folders/1IHtpWNtWHrfyqQFuhwHJff_P_yXPXvDq?usp=sharing).
 
 # Program
 
